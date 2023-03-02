@@ -13,7 +13,7 @@ This client requires a visual representation of the notification flow, which is 
 ## Proposed user flow
 
 User gets a push notification to remind him to take the first active pause of the day
-User opens the application and sees a pop-up to choose the amount of time he wants to take for the active pause. He the following options: 
+User opens the application and sees a pop-up to choose the amount of time he wants to take for the active pause. Has the following options: 
 30 seconds
 1 minute
 5 minutes
